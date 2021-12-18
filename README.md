@@ -1,2 +1,8 @@
-# Photo Booth
- Photo Booth created as part of JavaScript30 course work
+Photo Booth 
+===========  
+
+[Live Website](https://photo-booth-js.herokuapp.com/)  
+
+Photo Booth created using JavaScript.  
+
+![Welcome Page](./assets/welcome_page.png)
