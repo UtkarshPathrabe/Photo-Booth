@@ -1,7 +1,7 @@
 Photo Booth 
 ===========  
 
-[Live Website](https://photo-booth-js.herokuapp.com/)  
+[Live Website](https://utkarshpathrabe.github.io/Photo-Booth/)  
 
 Photo Booth created using JavaScript.  
 
